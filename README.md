@@ -434,5 +434,4 @@ Despite warnings and missing advanced features, the overall implementation is st
 
 ## Screenshots
 ![alt text](<Screenshot 2025-11-27 111438.png>) 
-!
-[alt text](<Screenshot 2025-11-27 112247.png>)
+![alt text](<Screenshot 2025-11-27 112247.png>)
